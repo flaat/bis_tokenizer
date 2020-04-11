@@ -1,0 +1,11 @@
+This repository contains a neural tokenizer for BIS or BI format.
+
+BIS means B = begin, S = space, I = intermediate
+
+For example:
+
+The pen is on the table
+BIISBIISBISBISBIISBIIII
+
+It runs using python3 /path/to/raw/text
+
